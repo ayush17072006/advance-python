@@ -1,0 +1,5 @@
+Python is a simple programming language.
+File handling is used to read and write data.
+The readlines() method reads all lines from a file.
+The writelines() method writes multiple lines to a file.
+This is Experiment 8.
